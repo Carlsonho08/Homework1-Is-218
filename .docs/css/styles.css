@@ -96,7 +96,13 @@ a {
     float: bottom;
 }
 #background{
-    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
+    background-image: url("../images/backg.jpg.jpg");
+    background-size: cover;
+    height: 554px;
+    position: relative;
+}
+#background2{
+    background-image: url("../images/backgsignup.jpg.jpg.jpg");
     background-size: cover;
     height: 554px;
     position: relative;
