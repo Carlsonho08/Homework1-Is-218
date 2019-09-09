@@ -95,17 +95,18 @@ a {
 .floatBottom{
     float: bottom;
 }
-#background{
-    background-image: url("../images/backg.jpg.jpg");
+#background1{
+    background-image: url("../images/backg.jpg");
     background-size: cover;
-    height: 554px;
-    position: relative;
+    height: 720px;
+    width: 1280px;
+
 }
 #background2{
-    background-image: url("../images/backgsignup.jpg.jpg.jpg");
+    background-image: url("../images/backgsignup.jpg");
     background-size: cover;
-    height: 554px;
-    position: relative;
+    height: auto;
+    width: auto;
 }
 .acent{
     text-align: center;
@@ -119,15 +120,7 @@ a {
 .white{
     color: white;
 }
-#wordinpic{
-    height: 277px;
-    position: absolute;
-    top: 25%
-}
-#wordin2pic{
-    color: blue;
-    padding-left: 40px;
-}
+
 .aRight{
     text-align: right;
 }
